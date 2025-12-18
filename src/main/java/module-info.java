@@ -1,11 +1,9 @@
 module viacheslav.javaproject2 {
     requires javafx.controls;
     requires javafx.fxml;
-    requires spring.beans;
-    requires spring.context;
-    requires java.sql;
+    requires org.hibernate.orm.core;
+    requires jakarta.persistence;
 
-
-    opens viacheslav.javaproject2 to javafx.fxml;
-    exports viacheslav.javaproject2;
+    exports viacheslav.javaproject2.application;
+    opens viacheslav.javaproject2.application to javafx.fxml;
 }

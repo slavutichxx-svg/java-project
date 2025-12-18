@@ -1,0 +1,31 @@
+﻿https://proselyte.net/tutorials/spring-tutorial-full-version/
+
+https://github.com/jhowilbur/javafx-jdbc/tree/master/src
+https://github.com/jhowilbur/javafx-jdbc/blob/master/src/application/Main.java
+
+https://refactoring.guru/ru/design-patterns/singleton
+https://refactoring.guru/design-patterns/singleton/java/example
+https://www.youtube.com/watch?v=vyr9GO7dLBQ
+
+https://www.baeldung.com/java-jdbc
+
+https://wiki.archlinux.org/title/MariaDB
+https://wiki.archlinux.org/title/PostgreSQL
+https://gist.github.com/NickMcSweeney/3444ce99209ee9bd9393ae6ab48599d8
+
+https://www.edureka.co/blog/sql-commands
+https://www.javaguides.net/2024/06/jdbc-classforname-is-no-longer-required.html
+
+https://www.drawdb.app/
+
+https://docs.hibernate.org/stable/orm/userguide/html_single/#system-requirements
+https://mvnrepository.com/search?q=hibernate
+https://docs.hibernate.org/orm/7.2/dialect/#_supported_dialects
+https://docs.hibernate.org/stable/orm/userguide/html_single/#basic
+# mini tutorial about sql + hibernate
+https://www.youtube.com/watch?v=H3LYwkePWfM
+https://www.youtube.com/watch?v=KPiFWU8bJDA
+
+1. Как создать PostgerSQL сервер для создания базы данных на нём?
+
+
